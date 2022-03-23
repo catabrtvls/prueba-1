@@ -1,0 +1,18 @@
+[	
+	{
+		"name": "Bart Simpson",
+		"img": "https://raw.githubusercontent.com/profesorfaco/prueba/main/img/bart.png"
+	},
+	{
+		"name": "Homero Simpson",
+		"img": "https://raw.githubusercontent.com/profesorfaco/prueba/main/img/homer.png"
+	},
+	{
+		"name": "Panfilo Smithers",
+		"img": "https://raw.githubusercontent.com/profesorfaco/prueba/main/img/smithers.png"
+	},
+	{
+		"name": "Sigmour Skinner",
+		"img": "https://raw.githubusercontent.com/profesorfaco/prueba/main/img/skinner.png"
+	}
+]
